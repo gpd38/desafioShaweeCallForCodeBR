@@ -53,9 +53,10 @@ O {nome_do_projeto} é .......
 ### Ferramentas
 
 <ul>
-  <li></li>
+  <li>Miro</li>
   <li>GitHub</li>
-  <li></li>
+  <li>Figma</li>
+  <li>VSCode</li>
 </ul>
 
 ### Integrantes
