@@ -1,0 +1,32 @@
+
+main{
+    background-image:url("../_imagens/greenforce-staffing-bYZn_C-RswQ-unsplash\ 1.png");
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    
+}
+main>section{
+    background: var(--brown-light);
+    width:35rem;
+}
+main>section p{
+    padding-top:4rem;
+    font-family:'Montserrat', serif;
+    font-weight:400;
+    line-height:1.6rem;
+}
+button{
+    color:var(--brown);
+    font-family: 'Montserrat', sans-serif;
+    weight:600;
+    padding:.7rem;
+    border:none;
+    border-radius:.5rem;
+    margin-top:4rem;
+    transition:.1s;
+}
+button:hover{
+    cursor:pointer;
+    background-color:var(--white-button);
+}

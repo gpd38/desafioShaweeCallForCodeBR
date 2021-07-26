@@ -22,7 +22,7 @@ Durante três dias, os participantes terão acesso a mentoria, lives e conteúdo
 
 ### Cronograma
 
-![Cronograma](https://raw.githubusercontent.com/gpd38/desafioShaweeCallForCodeBR/main/img/cronograma.png)
+![Cronograma](https://raw.githubusercontent.com/gpd38/desafioShaweeCallForCodeBR/main/imgReadme/cronograma.png)
 
 ### Desafio
 
@@ -41,7 +41,7 @@ Durante três dias, os participantes terão acesso a mentoria, lives e conteúdo
 
 ### Material
 
-- [Vídeo Pitch](#)
+- [Vídeo Pitch](https://youtu.be/yCiAhAjf_Dg)
 - [Vídeo Demo](#)
 - [Apresentação em PDF](#)
 - [Código Fonte](#)
@@ -57,6 +57,7 @@ O {nome_do_projeto} é .......
   <li>GitHub</li>
   <li>Figma</li>
   <li>VSCode</li>
+  <li>Adobe</li>
 </ul>
 
 ### Integrantes

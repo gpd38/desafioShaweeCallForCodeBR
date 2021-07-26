@@ -1,0 +1,77 @@
+main{
+    background-image:url("../_imagens/mao.png");
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+}
+main>section{
+    width:50rem;
+    padding:3rem;
+    padding-top:.5rem;
+}
+
+h1{
+    color:var(--purble);
+    padding-bottom:.8rem;
+    font-family:'Montserrat', serif;
+    font-weight:600;
+}
+h2{
+    font-family:'Montserrat', serif;
+    font-weight:400;
+    color:var(--purble);
+    padding:.8rem;
+}
+
+label{
+    visibility:hidden;
+}
+section form input{
+    padding:.5rem;
+    margin-bottom:.3rem;
+    border-radius: .5rem;
+    border:none;
+    outline:none;
+    justify-content:center;
+}
+section form input#empresa{
+    width:100%;
+}
+section form input#cnpj{
+    width:16rem;
+   
+}
+section form input#contato{
+    width:17rem;
+}
+section form input#cep{
+    width:10rem;
+}
+section form input#rua{
+    width:65%;
+}
+section form input#numero{
+    width:10%;
+}
+section form input#complemento{
+    width:20rem;
+}
+section form input#numero{
+    width:10%;
+}
+.inline{
+    display:flex;
+    padding:0;
+}
+.cadastrar{
+    padding:.8rem 1rem;
+    float:right;
+    border-radius:.5rem;
+    background:var(--green);
+    color:var(--white);
+    border:none;
+}
+.cadastrar:hover{
+    background:var(--green-light);
+    cursor:pointer;
+}

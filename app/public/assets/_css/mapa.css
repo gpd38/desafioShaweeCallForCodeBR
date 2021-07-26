@@ -1,0 +1,60 @@
+main {
+  background-image: url('../_imagens/brasil-politico-1.png');
+  background-attachment: fixed;
+  background-position: 50rem;
+  background-repeat: no-repeat;
+  background-color: var(--brown-light);
+}
+main > section {
+  width: 25rem;
+}
+h1 {
+  color: var(--purble);
+  padding-top: 3rem;
+}
+label {
+  visibility: hidden;
+}
+form {
+  margin-top: 2rem;
+}
+section form input {
+  padding: 1rem;
+  width: 90%;
+  border: none;
+  outline: none;
+  border-radius: 0.6rem;
+}
+button[type='submit'] {
+  background: var(--green);
+  padding: 0.5rem 1.4rem;
+  border-radius: 0.6rem;
+  float: right;
+  border: none;
+  margin: 0.5rem;
+  color: var(--white);
+}
+button[type='submit']:hover {
+  background: var(--green-light);
+}
+main > section p a:nth-child(1) {
+  color: var(--black);
+}
+p {
+  padding-top: 4rem;
+  margin-left: 25%;
+}
+em {
+  margin-left: 10%;
+}
+section a.cadastro {
+  color: var(--purble);
+  font-family: 'Montserrat', serif;
+  font-weight: 600;
+  text-decoration: underline;
+}
+select {
+  background-color: white;
+  text-align: left;
+  padding: 0.5rem;
+}
