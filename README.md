@@ -43,12 +43,15 @@ Durante três dias, os participantes terão acesso a mentoria, lives e conteúdo
 
 - [Vídeo Pitch](https://youtu.be/yCiAhAjf_Dg)
 - [Vídeo Demo](#)
-- [Apresentação em PDF](#)
-- [Código Fonte](#)
+- [Apresentação em PDF](https://github.com/gpd38/desafioShaweeCallForCodeBR/blob/main/apresentacao/Apresentacao_callforcode_jul21.pdf)
 
 ### Projeto
 
-O {nome_do_projeto} é .......
+<p>A plataforma "Logali" realiza a integração entre produtores, cooperativas e o consumidor final  estimulando mais relações entre eles afim de gerar novas parcerias e menor perda de excedentes.</p>
+
+<p>Os produtores e cooperativas terão uma plataforma de fácil acesso e usabilidade em que poderão realizar pesquisas para encontrar novos parceiros, locais e empresas de distribuição de alimentos.</p>
+
+<p>O consumidor final, terá uma plataforma para encontrar o produtor e cooperativas em sua região além de ajudar o produtor a reduzir o custo de transporte de seus alimentos uma vez que ele terá contato direto com o mesmo.</p>
 
 ### Ferramentas
 
@@ -67,15 +70,11 @@ O {nome_do_projeto} é .......
     <td><img alt="Foto do Gustavo" src="https://media-exp1.licdn.com/dms/image/C4E03AQHTRpKKU1Nptg/profile-displayphoto-shrink_800_800/0/1596412740803?e=1632355200&v=beta&t=_tHq8kQcYhTtEG5WEyjKBZr2LcCdt1mRGZ89BiceEss" /><br>Gustavo</td>
     <td><img alt="Foto da Juliana" src="https://media-exp1.licdn.com/dms/image/C4D03AQEYjEzbshc0vA/profile-displayphoto-shrink_800_800/0/1622758873325?e=1632355200&v=beta&t=3O951wftxKufrhdNLfJZ2ICfTWgG8Cr13FWR2LvJ-Sc" /><br>Juliana</td>
     <td><img alt="Foto do Leandro" src="https://media-exp1.licdn.com/dms/image/D4D35AQE03viAgdKtNA/profile-framedphoto-shrink_800_800/0/1621786677258?e=1626894000&v=beta&t=WtfI3E_ghTmNYvmHni3n44Z1nPq3N3sfdf0T_Yk4Mw8" /><br>Leandro</td>
-    <td><img alt="Foto da Patrick" src="https://media-exp1.licdn.com/dms/image/C4D03AQFt7b47CU2Arw/profile-displayphoto-shrink_800_800/0/1583152186690?e=1632355200&v=beta&t=8C4r4SirQAgmXki2aHAaccdtx-XRH948EubvuO-4T6k" /><br>Patrik</td>
-    <td><img alt="Foto da Rayssa" src="https://media-exp1.licdn.com/dms/image/C4E03AQGy0Hwe_qa3Tw/profile-displayphoto-shrink_800_800/0/1534771892059?e=1632355200&v=beta&t=d8wxA3GPS2o-3zR3rdrwt6g7vCm_moezr_YmBMjIzg8" /><br>Rayssa</td>
   </tr>
   <tr>
     <td><a href="https://www.linkedin.com/in/gustavopereiradias/" target="_blank">Linkedin</a></td>
     <td><a href="https://www.linkedin.com/in/julianadcc/" target="_blank">Linkedin</a></td>
     <td><a href="https://www.linkedin.com/in/leandro-bezerra-/" target="_blank">Linkedin</a></td>
-    <td><a href="https://www.linkedin.com/in/patrik-augusto-liro-066345183/" target="_blank">Linkedin</a></td>
-    <td><a href="https://www.linkedin.com/in/rayssa-lima-475531155/" target="_blank">Linkedin</a></td>
     </tr>
   </table>
 
