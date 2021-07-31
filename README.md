@@ -12,7 +12,7 @@
     <th>PORTUGUÊS</th> 
   </tr>
   <tr>
-    <td align="center"><a href=""><img src="https://raw.githubusercontent.com/gpd38/desafioShaweeCallForCodeBR/main/imgReadme/brasil.png" width="540" heigth="500" alt="INGLÊS" /></a></td>
-    <td align="center"><a href=""><img src="https://raw.githubusercontent.com/gpd38/desafioShaweeCallForCodeBR/main/imgReadme/usa.png" width="500" heigth="500" alt="PORTUGUÊS" /></a></td>
+    <td align="center"><a href="https://github.com/gpd38/desafioShaweeCallForCodeBR/blob/main/README-EN.md"><img src="https://raw.githubusercontent.com/gpd38/desafioShaweeCallForCodeBR/main/imgReadme/usa.png" width="540" heigth="500" alt="INGLÊS" /></a></td>
+    <td align="center"><a href="https://github.com/gpd38/desafioShaweeCallForCodeBR/blob/main/README-PT.md"><img src="https://raw.githubusercontent.com/gpd38/desafioShaweeCallForCodeBR/main/imgReadme/brasil.png" width="500" heigth="500" alt="PORTUGUÊS" /></a></td>
   </tr>
 </table>
