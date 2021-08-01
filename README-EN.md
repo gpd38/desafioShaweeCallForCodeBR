@@ -45,9 +45,9 @@ For three days, participants will have access to mentoring, lives and expert con
 
 ### Material
 
-- [Vídeo Pitch](https://youtu.be/yCiAhAjf_Dg)
+- [Vídeo Pitch](https://www.youtube.com/watch?v=NYcg67p6VA0)
 - [Vídeo Demo](https://youtu.be/NHkRNpB22Mo)
-- [Apresentação em PDF](https://github.com/gpd38/desafioShaweeCallForCodeBR/blob/main/apresentacao/Apresentacao_callforcode_jul21.pdf)
+- [Apresentação em PDF](https://github.com/gpd38/desafioShaweeCallForCodeBR/blob/main/apresentacao/Apresentacao_callforcode_EN_jul21.pdf)
 
 ### Project
 

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <link rel="stylesheet" href="./assets/_css/global.css">
+    <link rel="stylesheet" href="./assets/_css/cadastro.css">
+</head>
+<body>
+    <header>
+        <img src="./assets/_imagens/CallforCode_logo_logo.png" alt="Logo" class="soon">
+        <ul class="menu">
+			<li><a href="/">Home</a></li>
+            <li><a href="/mapa">Mapa</a></li>
+            <li><a href="/sobre">Quem Somos</a></li>
+            <li><a href="/login" class="button">Login/Cadastro</a></li>
+        </ul>
+    </header>
+    <main>
+        <section>
+			<form action="" method="get">
+				<h1>Contato</h1>
+				<label for="empresa">Nome da Empresa:</label>
+				<input type="text" name="empresa" id="empresa" placeholder="Nome da Empresa">
+
+				<label for="cnpj">CNPJ</label>
+				<input type="number" name="cnpj" id="cnpj" placeholder="CNPJ">
+
+				<label for="contato">Telefone de Contato</label>
+				<input type="number" name="contato" id="contato" placeholder="Telefone de contato">
+
+				
+				<h2>Endereço</h1>
+					
+				<label for="cep">CEP</label>
+				<input type="number" name="cep" id="cep" placeholder="Cep"></br>
+
+				<label for="rua">Rua</label>
+				<input type="text" name="rua" id="rua" placeholder="Nome da rua">
+
+				<label for="numero">Numero</label>
+				<input type="number" name="numero" id="numero" placeholder="ex:66">
+
+			<div class="inline">
+				<label for="complemento">Complemento</label>
+				<input type="number" name="complemento" id="complemento" placeholder="Complemento">
+
+				<label for="Bairro">Bairro</label>
+				<input type="text" name="Bairro" id="Bairro" placeholder="Bairro">
+
+				<label for="estado">Estado/Cidade</label>
+				<input type="text" name="estado" id="estado" placeholder="Estado - Cidade">
+			</div>
+				<h2>Segurança</h2>
+				
+				<label for="email">Rua</label>
+				<input type="email" name="email" id="email" placeholder="Ex: Logali@gmail.com">
+
+				
+				<label for="senha">Senha</label>
+				<input type="password" name="senha" id="senha" placeholder="Senha">
+			</form>
+			<button type="submit" class="cadastrar">Cadastrar</button>
+        </section>
+    </main>
+    <footer>
+        <div class="icons">
+            <img src="./assets/_imagens/instagram.svg" alt="Instagram">
+            <img src="./assets/_imagens/facebook.svg" alt="Facebook">
+            <img src="./assets/_imagens/twitter.svg" alt="Twitter">
+        </div>
+        Ajuda
+    </footer>
+</body>
+</html>
