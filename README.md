@@ -4,6 +4,7 @@
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/desafioShaweeCallForCodeBR?color=blue">
   <img alt="GitHub" src="https://img.shields.io/github/license/gpd38/desafioShaweeCallForCodeBR?color=green">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gpd38/desafioShaweeCallForCodeBR?color=red">
+  <img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/gpd38/desafioShaweeCallForCodeBR?color=orange">
 </p>
 
 <table style="width:100%">
