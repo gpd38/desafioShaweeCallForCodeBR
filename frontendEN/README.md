@@ -65,7 +65,7 @@ O {nome_do_projeto} é .......
   <tr>
     <td><img alt="Foto do Gustavo" src="https://media-exp1.licdn.com/dms/image/C4E03AQHTRpKKU1Nptg/profile-displayphoto-shrink_800_800/0/1596412740803?e=1632355200&v=beta&t=_tHq8kQcYhTtEG5WEyjKBZr2LcCdt1mRGZ89BiceEss" /><br>Gustavo</td>
     <td><img alt="Foto da Juliana" src="https://media-exp1.licdn.com/dms/image/C4D03AQEYjEzbshc0vA/profile-displayphoto-shrink_800_800/0/1622758873325?e=1632355200&v=beta&t=3O951wftxKufrhdNLfJZ2ICfTWgG8Cr13FWR2LvJ-Sc" /><br>Juliana</td>
-    <td><img alt="Foto do Leandro" src="https://media-exp1.licdn.com/dms/image/D4D35AQE03viAgdKtNA/profile-framedphoto-shrink_800_800/0/1621786677258?e=1626894000&v=beta&t=WtfI3E_ghTmNYvmHni3n44Z1nPq3N3sfdf0T_Yk4Mw8" /><br>Leandro</td>
+    <td><img alt="Foto do Leandro" src="https://media-exp1.licdn.com/dms/image/D4D35AQE03viAgdKtNA/profile-framedphoto-shrink_800_800/0/1621786677258?e=1629453600&v=beta&t=vVQj16nG51vOQuKGtxRyettUEsEDIzvw3g6xXhedpVo" /><br>Leandro</td>
     <td><img alt="Foto da Patrick" src="https://media-exp1.licdn.com/dms/image/C4D03AQFt7b47CU2Arw/profile-displayphoto-shrink_800_800/0/1583152186690?e=1632355200&v=beta&t=8C4r4SirQAgmXki2aHAaccdtx-XRH948EubvuO-4T6k" /><br>Patrik</td>
     <td><img alt="Foto da Rayssa" src="https://media-exp1.licdn.com/dms/image/C4E03AQGy0Hwe_qa3Tw/profile-displayphoto-shrink_800_800/0/1534771892059?e=1632355200&v=beta&t=d8wxA3GPS2o-3zR3rdrwt6g7vCm_moezr_YmBMjIzg8" /><br>Rayssa</td>
   </tr>
